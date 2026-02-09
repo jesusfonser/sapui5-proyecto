@@ -1,5 +1,8 @@
 <mvc:View
+    controllerName="sap.ui.demo/walkthrough.controller.App"
     xmlns="sap.m"
     xmlns:mvc="sap.ui.core.mvc">
-    <Text text="Holi UI5 otra ve"/>
+    <Button
+    text="Di hola"
+    press=".onShowHello"/>
 </mvc:View>
