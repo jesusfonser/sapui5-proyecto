@@ -1,4 +1,4 @@
-specVersion: "4.0"
+specVersion: '2.2'
 metadata:
-  name: sap-ui5-proyecto
+  name: sap-ui5-walkthrough
 type: application
